@@ -1,0 +1,555 @@
+{
+  "items": [
+    {
+      "description": "Tools that find vulnerabilities in smart contracts using AI. You point them at code - they orchestrate the analysis and produce findings.",
+      "items": [],
+      "title": "AI Auditors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pashov Audit Group Skills",
+          "description": "(Skill) - Fast (~5 min) Solidity security feedback during development. Built by Pashov Audit Group.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T15:10:37Z",
+            "owner": "pashov",
+            "repo": "skills",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hound",
+          "description": "(CLI) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T02:16:37Z",
+            "owner": "scabench-org",
+            "repo": "hound",
+            "stars": 806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plamen",
+          "description": "(Skill) - Autonomous Web3 audit agent orchestrating 15–95 AI agents across 8 phases with verified PoC exploits. Supports EVM, Solana/Anchor, Aptos Move, and Sui Move.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T07:02:13Z",
+            "owner": "PlamenTSV",
+            "repo": "plamen",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nemesis Auditor",
+          "description": "(Skill) - Iterative deep-logic audit agent alternating Feynman Auditor (first-principles reasoning) and State Inconsistency Auditor (coupled state desync detection). Runs until convergence (max 6 passes).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-16T14:01:25Z",
+            "owner": "0xiehnnkta",
+            "repo": "nemesis-auditor",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forefy/.context",
+          "description": "(Skill) - AI agent security audit skills producing triaged, industry-grade reports. Supports Solidity, Anchor/Rust, Vyper, FunC/Tact, and Sui Move.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:52:57Z",
+            "owner": "forefy",
+            "repo": ".context",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Archethect SC-Auditor",
+          "description": "(Skill) - Map-Hunt-Attack auditor with 6 parallel hunt agents, Devil's Advocate verification, and 8 MCP tools (Slither, Aderyn, Solodit, Cyfrin checklist, Foundry PoC, Echidna, Medusa, Halmos).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T17:00:18Z",
+            "owner": "Archethect",
+            "repo": "sc-auditor",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTScan",
+          "description": "(CLI) - First GPT + static analysis hybrid for logic vulnerability detection. Published ICSE 2024.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-11T12:47:06Z",
+            "owner": "GPTScan",
+            "repo": "GPTScan",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCV Scan",
+          "description": "(Skill) - Scans Solidity codebases for 36 unique vulnerability classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-11T22:36:48Z",
+            "owner": "kadenzipfel",
+            "repo": "scv-scan",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolidityGuard",
+          "description": "(CLI) - Security auditor with 104 vulnerability patterns and 9 integrated tools (Slither, Mythril, Echidna, Aderyn, Foundry, Medusa, Halmos, Certora, EVMBench). 100% on 85/85 CTF challenges and 120/120 EVMBench score.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-12T20:41:36Z",
+            "owner": "alt-research2",
+            "repo": "SolidityGuard",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarkNavy Contract Auditor",
+          "description": "(Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:47:17Z",
+            "owner": "DarkNavySecurity",
+            "repo": "web3-skills",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarkNavy Client Auditor",
+          "description": "(Skill) - Blockchain client auditor where hunt agents explore freely with vulnerability handbooks as guides, not rigid sequences, targeting execution/consensus clients and bridges in Go, Rust, C/C++, and Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:47:17Z",
+            "owner": "DarkNavySecurity",
+            "repo": "web3-skills",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aether",
+          "description": "(CLI) - End-to-end Python auditor with TUI: AST/static analysis (180+ detectors), Halmos symbolic execution, 6-pass LLM reasoning pipeline (GPT/Gemini/Claude), and automated PoC generation with Foundry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T03:17:16Z",
+            "owner": "l33tdawg",
+            "repo": "aether",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Move Auditor Skills",
+          "description": "(Skill) - Sui Move security auditing skill with 143 attack vectors, 7 parallel agents, and DeFi protocol checklists across 8 domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-23T10:29:12Z",
+            "owner": "sanbir",
+            "repo": "move-auditor-skills",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Open Source"
+    },
+    {
+      "description": "Free and open source components you plug into your AI agent's workflow - skills that augment reasoning, data connectors, tool bridges, spec generators, and training frameworks. These don't orchestrate finding bugs on their own but make your auditing agent smarter.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trail of Bits Skills",
+          "description": "Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:35:31Z",
+            "owner": "trailofbits",
+            "repo": "skills",
+            "stars": 6564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certora Prover + AI Composer",
+          "description": "State-of-the-art formal verification prover. AI Composer helps generate CVL specifications using LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-21T13:19:01Z",
+            "owner": "Certora",
+            "repo": "CertoraProver",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claudit",
+          "description": "MCP server for searching Solodit's 20K+ smart contract security findings with rich filtering. Integrates with Claude Code, Codex CLI, and Cursor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-23T11:22:36Z",
+            "owner": "marchev",
+            "repo": "claudit",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuillAudits Claude Skills",
+          "description": "10 specialized skills covering OWASP Smart Contract Top 10: behavioral state analysis, adversarial simulation, invariant inference, Bayesian scoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-30T10:10:00Z",
+            "owner": "quillai-network",
+            "repo": "quillshield_skills",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DarkNavy Exploit Investigator",
+          "description": "Multi-agent on-chain exploit investigation skill with analyst-validator debate loop, root-cause analysis, and Foundry PoC generation across EVM-compatible chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:47:17Z",
+            "owner": "DarkNavySecurity",
+            "repo": "web3-skills",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slither MCP",
+          "description": "MCP server providing Slither static analysis for Solidity - security detectors, contract metadata, inheritance analysis, and call graph queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T22:18:12Z",
+            "owner": "trailofbits",
+            "repo": "slither-mcp",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cholakov's Foundry PoC Mainnet Fork",
+          "description": "Skill for writing end-to-end Foundry PoC tests that reproduce smart contract vulnerabilities against real deployed protocols on mainnet forks across EVM chains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-23T06:12:46Z",
+            "owner": "cholakovvv",
+            "repo": "foundry-poc-mainnet-fork",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grimoire",
+          "description": "Security research toolkit for Claude Code that amplifies auditor skill with librarian (reference lookup), cartography (codebase mapping), scribe (detection module distillation), and automated PoC generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-30T08:24:26Z",
+            "owner": "JoranHonig",
+            "repo": "grimoire",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroSkills",
+          "description": "Zero-shot vulnerability detector targeting bugs outside the model's training distribution. Currently includes Slot Sleuth, an EVM storage-safety scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T17:28:28Z",
+            "owner": "zerocoolailabs",
+            "repo": "ZeroSkills",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartInv",
+          "description": "LLM-based invariant inference using \"Tier of Thought\" prompting. Fine-tunes multiple models (LLaMA, T5, GPT-2) and verifies with a bounded model checker. Published IEEE S&P 2024.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-11-14T06:33:58Z",
+            "owner": "columbia",
+            "repo": "SmartInv",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CD Security's AUDIT-PREP",
+          "description": "Eight-phase parallel Solidity pre-audit checker that runs inside Claude Code to surface hygiene issues, missing tests, and documentation gaps before formal review.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-08T06:33:56Z",
+            "owner": "CDSecurity",
+            "repo": "cdsecurity-skills",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solodit MCP Server",
+          "description": "MCP server for searching Solodit vulnerability reports by keywords and retrieving full report content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-30T16:42:13Z",
+            "owner": "LyuboslavLyubenov",
+            "repo": "search-solodit-mcp",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FTSmartAudit",
+          "description": "Teacher-student knowledge distillation framework producing fine-tuned models (1B–20B parameters) for smart contract vulnerability detection with 112 vulnerability labels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-02-17T13:33:11Z",
+            "owner": "LLMSmartAudit",
+            "repo": "FTSmartAudit",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "AI Agent Toolkit"
+    },
+    {
+      "description": "Frameworks and datasets for measuring, training, and evaluating AI security tools on smart contracts.",
+      "items": [],
+      "title": "Benchmarks & Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EVMbench",
+          "description": "Benchmark and agent harness for finding and exploiting smart contract bugs. Companion to OpenAI's evmbench detect evaluation. (Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T16:33:29Z",
+            "owner": "paradigmxyz",
+            "repo": "evmbench",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCONE-bench",
+          "description": "Smart contract exploitation benchmark with 405 contracts from DefiHackLabs. Docker-based evaluation harness with MCP tools and 60-minute timeout. (Report)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-22T19:43:47Z",
+            "owner": "safety-research",
+            "repo": "SCONE-bench",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bastet",
+          "description": "DeFi smart contract vulnerability dataset with AI-driven automated detection process. Includes CLI tool, n8n workflow integration, and CI/CD support. Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T06:24:12Z",
+            "owner": "OneSavieLabs",
+            "repo": "Bastet",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScaBench",
+          "description": "Smart contract audit benchmark: 31 projects, 555 vulnerabilities from Code4rena, Cantina, and Sherlock. Includes GPT-5 baseline runner and Nethermind AuditAgent scoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-04T04:41:44Z",
+            "owner": "scabench-org",
+            "repo": "scabench",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Majeur Benchmark",
+          "description": "Real-world audit of Moloch.sol using 33 independent AI + traditional tools. Detailed findings, novelty scores, and false-positive analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-23T09:15:27Z",
+            "owner": "z0r0z",
+            "repo": "majeur",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SmartBugs",
+          "description": "Framework integrating 20+ analysis tools with SB Curated (143 contracts, 208 vulnerabilities), SB Wild (47,398 contracts), and SolidiFI (9,369 injected bugs). Widely used in ML research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T06:59:15Z",
+            "owner": "smartbugs",
+            "repo": "smartbugs",
+            "stars": 682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart-Contract-Dataset",
+          "description": "40K+ Ethereum contracts labeled for reentrancy, timestamp, integer overflow, and delegatecall vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-21T09:51:08Z",
+            "owner": "Messi-Q",
+            "repo": "Smart-Contract-Dataset",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartBugs Curated",
+          "description": "Curated dataset of Solidity smart contracts annotated with tagged vulnerabilities. Widely used in ML research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2024-06-16T17:44:41Z",
+            "owner": "smartbugs",
+            "repo": "smartbugs-curated",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Smart Contract Datasets",
+          "description": "Meta-list of datasets for training/evaluating ML approaches in smart contract security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-02T20:59:34Z",
+            "owner": "acorn421",
+            "repo": "awesome-smart-contract-datasets",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forge Dataset",
+          "description": "LLM-driven dataset construction from 6,454 audit reports → 27,497 findings in 81,390 Solidity files covering 296 CWE categories. Published ICSE 2026.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2026-04-22T08:35:50Z",
+            "owner": "shenyimings",
+            "repo": "FORGE-Artifacts",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "See contributing.md for detailed criteria.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:20.749Z",
+    "original_repository": "marchev/awesome-ai-web3-security",
+    "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
+    "enhanced_repository": "enhansome/enhansome-ai-web3-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI × Web3 Security with stars"
+  }
+}
