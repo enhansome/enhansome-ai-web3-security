@@ -19,7 +19,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1071
+            "stars": 1073
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T06:52:57Z",
+            "last_commit": "2026-08-14T21:36:27Z",
             "owner": "forefy",
             "repo": ".context",
             "stars": 128
@@ -131,7 +131,7 @@
             "last_commit": "2026-06-12T20:41:36Z",
             "owner": "alt-research2",
             "repo": "SolidityGuard",
-            "stars": 104
+            "stars": 103
           }
         },
         {
@@ -204,10 +204,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:17:56Z",
+            "last_commit": "2026-08-14T22:53:11Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6572
+            "stars": 6591
           }
         },
         {
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:16:57.468Z",
+    "last_updated": "2026-08-15T04:05:51.280Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
     "enhanced_repository": "enhansome/enhansome-ai-web3-security",
