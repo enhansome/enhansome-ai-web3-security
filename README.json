@@ -19,7 +19,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1073
+            "stars": 1074
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-14T02:16:37Z",
             "owner": "scabench-org",
             "repo": "hound",
-            "stars": 806
+            "stars": 807
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:36:27Z",
+            "last_commit": "2026-08-15T15:59:23Z",
             "owner": "forefy",
             "repo": ".context",
             "stars": 128
@@ -89,7 +89,7 @@
             "last_commit": "2026-03-13T17:00:18Z",
             "owner": "Archethect",
             "repo": "sc-auditor",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-14T22:53:11Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6591
+            "stars": 6605
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-23T11:22:36Z",
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 155
+            "stars": 156
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2025-06-30T16:42:13Z",
             "owner": "LyuboslavLyubenov",
             "repo": "search-solodit-mcp",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:05:51.280Z",
+    "last_updated": "2026-08-16T04:10:08.651Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
     "enhanced_repository": "enhansome/enhansome-ai-web3-security",
