@@ -19,7 +19,7 @@
             "last_commit": "2026-07-09T15:10:37Z",
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-07-15T07:02:13Z",
             "owner": "PlamenTSV",
             "repo": "plamen",
-            "stars": 276
+            "stars": 277
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:50:16Z",
+            "last_commit": "2026-08-18T14:09:27Z",
             "owner": "forefy",
             "repo": ".context",
-            "stars": 129
+            "stars": 132
           }
         },
         {
@@ -204,10 +204,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T17:11:30Z",
+            "last_commit": "2026-08-19T01:29:53Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6636
+            "stars": 6655
           }
         },
         {
@@ -425,7 +425,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-28T06:24:12Z",
+            "last_commit": "2026-08-18T07:45:03Z",
             "owner": "OneSavieLabs",
             "repo": "Bastet",
             "stars": 122
@@ -504,7 +504,7 @@
             "last_commit": "2024-06-16T17:44:41Z",
             "owner": "smartbugs",
             "repo": "smartbugs-curated",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:09:59.132Z",
+    "last_updated": "2026-08-19T04:10:27.091Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
     "enhanced_repository": "enhansome/enhansome-ai-web3-security",
