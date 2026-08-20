@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 925651676,
                 "language": "Python",
-                "last_commit": "2026-08-18T14:09:27Z",
+                "last_commit": "2026-08-19T17:36:51Z",
                 "owner": "forefy",
                 "repo": ".context",
                 "stars": 132
@@ -220,10 +220,10 @@
             "archived": false,
             "id": 1134447175,
             "language": "Python",
-            "last_commit": "2026-08-19T10:13:25Z",
+            "last_commit": "2026-08-20T02:27:18Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6663
+            "stars": 6689
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:38.592Z",
+    "last_updated": "2026-08-20T04:10:39.674Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_id": 1186742378,
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
