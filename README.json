@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-09T15:10:37Z",
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1084
+                "stars": 1088
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-03-16T14:01:25Z",
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 243
+                "stars": 242
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-03-11T22:36:48Z",
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
-                "stars": 104
+                "stars": 105
               }
             },
             {
@@ -220,10 +220,10 @@
             "archived": false,
             "id": 1134447175,
             "language": "Python",
-            "last_commit": "2026-08-20T16:26:59Z",
+            "last_commit": "2026-08-21T14:09:46Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6754
+            "stars": 6780
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-03-30T10:10:00Z",
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-06-24T16:33:29Z",
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 447
+                "stars": 448
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2025-10-04T04:41:44Z",
                 "owner": "scabench-org",
                 "repo": "scabench",
-                "stars": 115
+                "stars": 116
               }
             },
             {
@@ -486,7 +486,7 @@
                 "last_commit": "2026-03-23T09:15:27Z",
                 "owner": "z0r0z",
                 "repo": "majeur",
-                "stars": 32
+                "stars": 33
               }
             }
           ],
@@ -508,7 +508,7 @@
                 "last_commit": "2026-05-20T06:59:15Z",
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 682
+                "stars": 683
               }
             },
             {
@@ -538,7 +538,7 @@
                 "last_commit": "2024-06-16T17:44:41Z",
                 "owner": "smartbugs",
                 "repo": "smartbugs-curated",
-                "stars": 160
+                "stars": 161
               }
             },
             {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:11:36.930Z",
+    "last_updated": "2026-08-22T04:08:06.387Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_id": 1186742378,
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
