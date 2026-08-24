@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-09T15:10:37Z",
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1093
+                "stars": 1094
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 925651676,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:36:51Z",
+                "last_commit": "2026-08-24T10:55:55Z",
                 "owner": "forefy",
                 "repo": ".context",
                 "stars": 133
@@ -220,10 +220,10 @@
             "archived": false,
             "id": 1134447175,
             "language": "Python",
-            "last_commit": "2026-08-21T14:09:46Z",
+            "last_commit": "2026-08-24T14:06:59Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6811
+            "stars": 6825
           }
         },
         {
@@ -348,21 +348,6 @@
         },
         {
           "node_type": "item",
-          "title": "SmartInv",
-          "description": "LLM-based invariant inference using \"Tier of Thought\" prompting. Fine-tunes multiple models (LLaMA, T5, GPT-2) and verifies with a bounded model checker. Published IEEE S&P 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 763620341,
-            "language": "Solidity",
-            "last_commit": "2024-11-14T06:33:58Z",
-            "owner": "columbia",
-            "repo": "SmartInv",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
           "title": "CD Security's AUDIT-PREP",
           "description": "Eight-phase parallel Solidity pre-audit checker that runs inside Claude Code to surface hygiene issues, missing tests, and documentation gaps before formal review.",
           "children": [],
@@ -373,6 +358,21 @@
             "last_commit": "2026-04-08T06:33:56Z",
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartInv",
+          "description": "LLM-based invariant inference using \"Tier of Thought\" prompting. Fine-tunes multiple models (LLaMA, T5, GPT-2) and verifies with a bounded model checker. Published IEEE S&P 2024.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 763620341,
+            "language": "Solidity",
+            "last_commit": "2024-11-14T06:33:58Z",
+            "owner": "columbia",
+            "repo": "SmartInv",
             "stars": 43
           }
         },
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:23:41.311Z",
+    "last_updated": "2026-08-24T14:41:03.683Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_id": 1186742378,
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
