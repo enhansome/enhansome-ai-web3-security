@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-09T15:10:37Z",
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1090
+                "stars": 1093
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-14T02:16:37Z",
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 808
+                "stars": 810
               }
             },
             {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-21T14:09:46Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6789
+            "stars": 6811
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:11:30.344Z",
+    "last_updated": "2026-08-24T04:23:41.311Z",
     "original_repository": "marchev/awesome-ai-web3-security",
     "original_repository_id": 1186742378,
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
