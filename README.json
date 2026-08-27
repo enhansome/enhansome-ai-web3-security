@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-09T15:10:37Z",
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1097
+                "stars": 1098
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 925651676,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:05:50Z",
+                "last_commit": "2026-08-27T12:44:41Z",
                 "owner": "forefy",
                 "repo": ".context",
                 "stars": 133
@@ -220,10 +220,10 @@
             "archived": false,
             "id": 1134447175,
             "language": "Python",
-            "last_commit": "2026-08-27T00:01:50Z",
+            "last_commit": "2026-08-27T14:26:52Z",
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6872
+            "stars": 6876
           }
         },
         {
@@ -581,7 +581,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:46.266Z",
+    "last_updated": "2026-08-27T14:32:58.707Z",
     "original_repository_info": {
       "archived": false,
       "id": 1186742378,
