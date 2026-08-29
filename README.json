@@ -337,7 +337,7 @@
             "open_issues": 27,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6902,
+            "stars": 6903,
             "topics": [
               "agent-skills"
             ]
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:43.247Z",
+    "last_updated": "2026-08-29T10:23:13.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
