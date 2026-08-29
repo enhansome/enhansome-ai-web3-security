@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pashov Audit Group Skills",
+                "homepage": null,
                 "id": 1165212299,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-09T15:10:37Z",
+                "open_issues": 4,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1102
+                "stars": 1103,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.",
+                "homepage": null,
                 "id": 1043736566,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-14T02:16:37Z",
+                "open_issues": 14,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 810
+                "stars": 810,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -44,12 +54,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous Web3 security audit agent for Claude Code",
+                "homepage": null,
                 "id": 1183303405,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T07:02:13Z",
+                "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "ai-agent",
+                  "aptos",
+                  "claude-code",
+                  "ethereum",
+                  "security-audit",
+                  "smart-contract-audit",
+                  "solana",
+                  "solidity",
+                  "sui",
+                  "web3-security"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -60,12 +86,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Inescapable Auditor -- iterative deep-logic security audit agent for Claude Code",
+                "homepage": null,
                 "id": 1174656753,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-03-16T14:01:25Z",
+                "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -76,12 +107,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Skills, Loops and Dynamic Workflows for Security Auditing, Pentesting and Research",
+                "homepage": "https://forefy.com/asr",
                 "id": 925651676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:44:41Z",
+                "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "ai-security",
+                  "ai-skills",
+                  "dynamic-workflows",
+                  "graph-engineering",
+                  "loop-engineering",
+                  "security-skills"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -92,12 +135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solidity smart contract auditor leveraging static analysis, Solodit findings and Map, Hunt, Attack strategy",
+                "homepage": null,
                 "id": 1165475278,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-03-13T17:00:18Z",
+                "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -108,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICSE'24 GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis",
+                "homepage": "https://dl.acm.org/doi/abs/10.1145/3597503.3639117",
                 "id": 807200241,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-12-11T12:47:06Z",
+                "open_issues": 5,
                 "owner": "GPTScan",
                 "repo": "GPTScan",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -124,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Claude Code skill that scans Solidity codebases for security vulnerabilities by referencing 36 unique vulnerability types",
+                "homepage": null,
                 "id": 1153893361,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-11T22:36:48Z",
+                "open_issues": 0,
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -140,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Solidity/EVM smart contract security auditor — 104 vulnerability patterns, 8 tools, 100% CTF + EVMBench benchmark (120/120)",
+                "homepage": "https://solidityguard.org",
                 "id": 1151099115,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-12T20:41:36Z",
+                "open_issues": 5,
                 "owner": "alt-research2",
                 "repo": "SolidityGuard",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -156,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
+                "homepage": null,
                 "id": 1189319883,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-21T11:47:17Z",
+                "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -172,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
+                "homepage": null,
                 "id": 1189319883,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-21T11:47:17Z",
+                "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -188,12 +261,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Smart Contract Security Analysis and PoC Generation Framework",
+                "homepage": null,
                 "id": 1076915913,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-27T03:17:16Z",
+                "open_issues": 0,
                 "owner": "l33tdawg",
                 "repo": "aether",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "ai",
+                  "audit",
+                  "bugbounty",
+                  "smart-contracts",
+                  "solidity",
+                  "solidity-contracts",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -204,12 +290,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered Sui Move security skills for auditing packages that live in an object-centric runtime, not an EVM account model.",
+                "homepage": "https://crypto.training/",
                 "id": 1175934141,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-03-23T10:29:12Z",
+                "open_issues": 0,
                 "owner": "sanbir",
                 "repo": "move-auditor-skills",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "ai",
+                  "audit",
+                  "move",
+                  "security",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             }
@@ -231,12 +328,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+            "homepage": null,
             "id": 1134447175,
             "language": "Python",
-            "last_commit": "2026-08-27T18:02:00Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-28T20:37:02Z",
+            "open_issues": 27,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6896
+            "stars": 6902,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -247,12 +351,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Certora Prover is the state-of-the-art security tool for automated formal verification of smart contracts running on EVM-based chains, Solana and Stellar",
+            "homepage": "https://www.certora.com",
             "id": 937552130,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T12:33:23Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T19:16:54Z",
+            "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "blockchain",
+              "certora",
+              "certora-prover",
+              "ethereum",
+              "formal-verification",
+              "security-tools",
+              "smart-contracts",
+              "solana",
+              "stellar",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -263,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for searching Solodit smart contract security findings",
+            "homepage": null,
             "id": 1172964496,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T11:22:36Z",
+            "open_issues": 1,
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -279,12 +404,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structured skills for smart contract security audits. Infers state invariants, detects semantic guard gaps, models flash loan + oracle attack chains, simulates adversarial exploits, and scores findings.",
+            "homepage": null,
             "id": 1151327123,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-30T10:10:00Z",
+            "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "claude-plugin",
+              "defi-security",
+              "skills",
+              "solidity-audit"
+            ]
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -295,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
+            "homepage": null,
             "id": 1189319883,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T11:47:17Z",
+            "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -311,12 +451,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for Slither static analysis of Solidity smart contracts",
+            "homepage": null,
             "id": 1044418317,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-05-19T22:18:12Z",
+            "open_issues": 16,
             "owner": "trailofbits",
             "repo": "slither-mcp",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "ethereum",
+              "mcp",
+              "model-context-protocol",
+              "python",
+              "security",
+              "slither",
+              "smart-contracts",
+              "solidity",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -327,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skill that produces submission-ready Foundry PoCs against mainnet-forked deployed contracts.",
+            "homepage": null,
             "id": 1218702716,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-23T06:12:46Z",
+            "open_issues": 0,
             "owner": "cholakovvv",
             "repo": "foundry-poc-mainnet-fork",
-            "stars": 73
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -343,12 +503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agentic auditing stack",
+            "homepage": null,
             "id": 1159486008,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-30T08:24:26Z",
+            "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -359,12 +524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of high-signal, zero-shot detectors maintained by Zero Cool. ",
+            "homepage": null,
             "id": 1164287562,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-11T17:28:28Z",
+            "open_issues": 1,
             "owner": "zerocoolailabs",
             "repo": "ZeroSkills",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -375,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skills for smart contract security — by CD Security",
+            "homepage": null,
             "id": 1193685664,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-08T06:33:56Z",
+            "open_issues": 0,
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -391,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 763620341,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2024-11-14T06:33:58Z",
+            "open_issues": 2,
             "owner": "columbia",
             "repo": "SmartInv",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -407,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for searching and retrieving Solodit vulnerability reports.",
+            "homepage": null,
             "id": 1006050661,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-06-30T16:42:13Z",
+            "open_issues": 2,
             "owner": "LyuboslavLyubenov",
             "repo": "search-solodit-mcp",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         },
@@ -423,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is dedicated to the smart contract auditing using our FTSmartAudit tool ",
+            "homepage": null,
             "id": 825170641,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2026-02-17T13:33:11Z",
+            "open_issues": 2,
             "owner": "LLMSmartAudit",
             "repo": "FTSmartAudit",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
         }
@@ -447,12 +637,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collab with OpenAI. A benchmark and harness for finding and exploiting smart contract bugs",
+                "homepage": "https://paradigm.xyz/evmbench",
                 "id": 1161070751,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-24T16:33:29Z",
+                "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 448
+                "stars": 449,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "audit",
+                  "blockchain",
+                  "blockchain-technology",
+                  "eth",
+                  "ethereum",
+                  "evm",
+                  "security",
+                  "solidity",
+                  "testing",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -463,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1093726060,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-22T19:43:47Z",
+                "open_issues": 5,
                 "owner": "safety-research",
                 "repo": "SCONE-bench",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -479,12 +692,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bastet is a comprehensive dataset of common smart contract vulnerabilities in DeFi along with an AI-driven automated detection process to enhance vulnerability detection accuracy and optimize security lifecycle management.",
+                "homepage": null,
                 "id": 927493101,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T07:45:03Z",
+                "open_issues": 7,
                 "owner": "OneSavieLabs",
                 "repo": "Bastet",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "n8n",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -495,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for evaluating AI audit agents using recent real-world data",
+                "homepage": null,
                 "id": 1036701402,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-04T04:41:44Z",
+                "open_issues": 10,
                 "owner": "scabench-org",
                 "repo": "scabench",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -511,12 +737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1088076016,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-03-23T09:15:27Z",
+                "open_issues": 1,
                 "owner": "z0r0z",
                 "repo": "majeur",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             }
@@ -534,12 +765,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SmartBugs: A Framework to Analyze Ethereum Smart Contracts",
+                "homepage": "https://smartbugs.github.io/",
                 "id": 186633437,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:25:31Z",
+                "open_issues": 3,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 683
+                "stars": 683,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "solidity",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -550,12 +791,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datasets for evaluating smart contract security analysis tools ( continuously updating... )",
+                "homepage": null,
                 "id": 360530103,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-21T09:51:08Z",
+                "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "dataset",
+                  "ethereum",
+                  "smart-contracts",
+                  "vunerability"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -566,12 +817,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SB Curated is a curated dataset of Solidity smart contracts annotated with tagged vulnerabilities. The dataset was created to evaluate the accuracy of automated analysis tools.",
+                "homepage": null,
                 "id": 569000746,
                 "language": "Solidity",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-16T17:44:41Z",
+                "open_issues": 6,
                 "owner": "smartbugs",
                 "repo": "smartbugs-curated",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "benchmark",
+                  "blockchain",
+                  "dataset",
+                  "ethereum",
+                  "solidity"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -582,12 +844,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome smart contract datasets",
+                "homepage": null,
                 "id": 661002428,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-02T20:59:34Z",
+                "open_issues": 0,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "dataset",
+                  "reentrancy",
+                  "smart-contract",
+                  "solidity",
+                  "solidity-contracts",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             },
@@ -598,12 +874,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICSE'26] FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction",
+                "homepage": null,
                 "id": 1006494233,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2026-04-22T08:35:50Z",
+                "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "benchmark",
+                  "blockchain",
+                  "dataset",
+                  "ethereum",
+                  "smart-contracts",
+                  "solidity",
+                  "solidity-contracts",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
             }
@@ -617,15 +907,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:37:05.964Z",
+    "last_updated": "2026-08-29T04:58:43.247Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
+      "homepage": null,
       "id": 1186742378,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
+      "open_issues": 0,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 95
+      "stars": 95,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "4ba56e2f2c53f10454cbd4a01af66535328368b7",
     "enhanced_repository": "enhansome/enhansome-ai-web3-security",
