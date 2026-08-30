@@ -42,7 +42,7 @@
                 "open_issues": 14,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 810,
+                "stars": 811,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -337,7 +337,7 @@
             "open_issues": 27,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6903,
+            "stars": 6911,
             "topics": [
               "agent-skills"
             ]
@@ -774,7 +774,7 @@
                 "open_issues": 3,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 683,
+                "stars": 684,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:23:13.282Z",
+    "last_updated": "2026-08-30T09:26:39.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -919,7 +919,7 @@
       "open_issues": 0,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 95,
+      "stars": 96,
       "topics": [
         "awesome",
         "awesome-list"
