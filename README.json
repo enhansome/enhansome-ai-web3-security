@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -144,7 +144,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -334,10 +334,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T20:37:02Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6911,
+            "stars": 6924,
             "topics": [
               "agent-skills"
             ]
@@ -360,7 +360,7 @@
             "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "blockchain",
               "certora",
@@ -413,7 +413,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -491,7 +491,7 @@
             "open_issues": 0,
             "owner": "cholakovvv",
             "repo": "foundry-poc-mainnet-fork",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -533,7 +533,7 @@
             "open_issues": 1,
             "owner": "zerocoolailabs",
             "repo": "ZeroSkills",
-            "stars": 52,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -554,7 +554,7 @@
             "open_issues": 0,
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -800,7 +800,7 @@
                 "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "dataset",
                   "ethereum",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:26:39.785Z",
+    "last_updated": "2026-08-31T10:02:23.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
