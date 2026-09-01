@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1104,
+                "stars": 1108,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -112,11 +112,11 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T12:44:41Z",
+                "last_commit": "2026-09-01T08:47:08Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 133,
+                "stars": 138,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -333,11 +333,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-28T20:37:02Z",
-            "open_issues": 28,
+            "last_commit": "2026-08-31T21:28:58Z",
+            "open_issues": 24,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6924,
+            "stars": 6929,
             "topics": [
               "agent-skills"
             ]
@@ -360,7 +360,7 @@
             "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "blockchain",
               "certora",
@@ -853,7 +853,7 @@
                 "open_issues": 0,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -907,7 +907,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:02:23.471Z",
+    "last_updated": "2026-09-01T08:52:32.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
