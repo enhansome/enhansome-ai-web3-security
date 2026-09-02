@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-09T15:10:37Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1108,
+                "stars": 1114,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -107,22 +107,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "AI Agent Skills, Loops and Dynamic Workflows for Security Auditing, Pentesting and Research",
+                "description": "AI Agent Skills, Goals and Dynamic Workflows for Security Auditing, Pentesting and Research",
                 "homepage": "https://forefy.com/asr",
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T08:47:08Z",
+                "last_commit": "2026-09-02T07:25:56Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "ai-security",
                   "ai-skills",
-                  "dynamic-workflows",
-                  "graph-engineering",
-                  "loop-engineering",
+                  "dynamic-workflow",
                   "security-skills"
                 ]
               },
@@ -333,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-31T21:28:58Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-01T13:29:43Z",
+            "open_issues": 21,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6929,
+            "stars": 6940,
             "topics": [
               "agent-skills"
             ]
@@ -646,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "agents",
                   "ai",
@@ -907,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:52:32.479Z",
+    "last_updated": "2026-09-02T08:06:07.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
