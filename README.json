@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1118,
+                "stars": 1120,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 14,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 811,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -112,11 +112,11 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T07:25:56Z",
+                "last_commit": "2026-09-04T07:05:39Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 139,
+                "stars": 141,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -184,7 +184,7 @@
                 "open_issues": 0,
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -226,7 +226,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -247,7 +247,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -335,7 +335,7 @@
             "open_issues": 21,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6952,
+            "stars": 6968,
             "topics": [
               "agent-skills"
             ]
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 450,
+                "stars": 451,
                 "topics": [
                   "agents",
                   "ai",
@@ -772,7 +772,7 @@
                 "open_issues": 2,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 685,
+                "stars": 684,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:15:33.493Z",
+    "last_updated": "2026-09-04T08:11:29.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
