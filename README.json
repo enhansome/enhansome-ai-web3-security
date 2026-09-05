@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1120,
+                "stars": 1122,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -116,7 +116,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 141,
+                "stars": 144,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -335,7 +335,7 @@
             "open_issues": 21,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6968,
+            "stars": 6975,
             "topics": [
               "agent-skills"
             ]
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "agents",
                   "ai",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:11:29.645Z",
+    "last_updated": "2026-09-05T07:50:18.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
