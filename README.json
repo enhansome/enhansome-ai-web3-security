@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1123,
+                "stars": 1127,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 15,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 812,
+                "stars": 813,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -59,11 +59,11 @@
                 "id": 1183303405,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-15T07:02:13Z",
+                "last_commit": "2026-09-06T20:02:21Z",
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 281,
+                "stars": 284,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -112,7 +112,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T07:05:39Z",
+                "last_commit": "2026-09-07T00:52:41Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -335,7 +335,7 @@
             "open_issues": 21,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6979,
+            "stars": 6994,
             "topics": [
               "agent-skills"
             ]
@@ -354,7 +354,7 @@
             "id": 937552130,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T19:16:54Z",
+            "last_commit": "2026-09-07T06:05:15Z",
             "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "agents",
                   "ai",
@@ -772,7 +772,7 @@
                 "open_issues": 2,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 684,
+                "stars": 686,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:05:56.902Z",
+    "last_updated": "2026-09-07T08:35:47.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
