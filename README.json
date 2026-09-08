@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1127,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-14T02:16:37Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
                 "stars": 813,
@@ -59,11 +59,11 @@
                 "id": 1183303405,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T20:02:21Z",
+                "last_commit": "2026-09-07T21:28:17Z",
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 284,
+                "stars": 294,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -112,7 +112,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T00:52:41Z",
+                "last_commit": "2026-09-07T16:15:18Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -332,10 +332,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-02T17:44:12Z",
-            "open_issues": 21,
+            "open_issues": 24,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 6994,
+            "stars": 7014,
             "topics": [
               "agent-skills"
             ]
@@ -390,7 +390,7 @@
             "open_issues": 1,
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:35:47.173Z",
+    "last_updated": "2026-09-08T08:17:55.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
