@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1141,
+                "stars": 1143,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -112,7 +112,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T16:15:18Z",
+                "last_commit": "2026-09-09T05:19:34Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -191,27 +191,6 @@
             },
             {
               "node_type": "item",
-              "title": "SolidityGuard",
-              "description": "(CLI) - Security auditor with 104 vulnerability patterns and 9 integrated tools (Slither, Mythril, Echidna, Aderyn, Foundry, Medusa, Halmos, Certora, EVMBench). 100% on 85/85 CTF challenges and 120/120 EVMBench score.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Solidity/EVM smart contract security auditor — 104 vulnerability patterns, 8 tools, 100% CTF + EVMBench benchmark (120/120)",
-                "homepage": "https://solidityguard.org",
-                "id": 1151099115,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-12T20:41:36Z",
-                "open_issues": 5,
-                "owner": "alt-research2",
-                "repo": "SolidityGuard",
-                "stars": 104,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T15:37:05.964Z"
-            },
-            {
-              "node_type": "item",
               "title": "DarkNavy Contract Auditor",
               "description": "(Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.",
               "children": [],
@@ -226,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -247,6 +226,27 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
+                "stars": 105,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:37:05.964Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SolidityGuard",
+              "description": "(CLI) - Security auditor with 104 vulnerability patterns and 9 integrated tools (Slither, Mythril, Echidna, Aderyn, Foundry, Medusa, Halmos, Certora, EVMBench). 100% on 85/85 CTF challenges and 120/120 EVMBench score.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Solidity/EVM smart contract security auditor — 104 vulnerability patterns, 8 tools, 100% CTF + EVMBench benchmark (120/120)",
+                "homepage": "https://solidityguard.org",
+                "id": 1151099115,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-12T20:41:36Z",
+                "open_issues": 5,
+                "owner": "alt-research2",
+                "repo": "SolidityGuard",
                 "stars": 104,
                 "topics": []
               },
@@ -332,10 +332,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-02T17:44:12Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7014,
+            "stars": 7022,
             "topics": [
               "agent-skills"
             ]
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -768,8 +768,8 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T13:57:05Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-09T00:47:40Z",
+                "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
                 "stars": 686,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:17:55.336Z",
+    "last_updated": "2026-09-09T08:21:12.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
