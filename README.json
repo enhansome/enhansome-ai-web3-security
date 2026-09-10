@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-02T17:44:12Z",
+            "last_commit": "2026-09-09T20:48:17Z",
             "open_issues": 23,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7022,
+            "stars": 7029,
             "topics": [
               "agent-skills"
             ]
@@ -768,7 +768,7 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T00:47:40Z",
+                "last_commit": "2026-09-09T17:01:13Z",
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:21:12.202Z",
+    "last_updated": "2026-09-10T08:21:51.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
