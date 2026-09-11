@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -116,7 +116,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 144,
+                "stars": 146,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -163,7 +163,7 @@
                 "open_issues": 5,
                 "owner": "GPTScan",
                 "repo": "GPTScan",
-                "stars": 107,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -332,10 +332,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-09T20:48:17Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7029,
+            "stars": 7039,
             "topics": [
               "agent-skills"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "blockchain",
               "certora",
@@ -552,7 +552,7 @@
             "open_issues": 0,
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -768,11 +768,11 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T17:01:13Z",
+                "last_commit": "2026-09-10T17:46:23Z",
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 686,
+                "stars": 688,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -851,7 +851,7 @@
                 "open_issues": 0,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -881,7 +881,7 @@
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
-                "stars": 40,
+                "stars": 42,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:21:51.988Z",
+    "last_updated": "2026-09-11T08:15:53.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
