@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1144,
+                "stars": 1145,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -335,7 +335,7 @@
             "open_issues": 24,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7039,
+            "stars": 7046,
             "topics": [
               "agent-skills"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "blockchain",
               "certora",
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "agents",
                   "ai",
@@ -768,7 +768,7 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T17:46:23Z",
+                "last_commit": "2026-09-11T13:59:54Z",
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:15:53.083Z",
+    "last_updated": "2026-09-12T08:06:13.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
