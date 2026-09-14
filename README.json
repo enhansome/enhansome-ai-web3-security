@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1145,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -149,6 +149,48 @@
             },
             {
               "node_type": "item",
+              "title": "DarkNavy Contract Auditor",
+              "description": "(Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
+                "homepage": null,
+                "id": 1189319883,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-21T11:47:17Z",
+                "open_issues": 0,
+                "owner": "DarkNavySecurity",
+                "repo": "web3-skills",
+                "stars": 107,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:37:05.964Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DarkNavy Client Auditor",
+              "description": "(Skill) - Blockchain client auditor where hunt agents explore freely with vulnerability handbooks as guides, not rigid sequences, targeting execution/consensus clients and bridges in Go, Rust, C/C++, and Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
+                "homepage": null,
+                "id": 1189319883,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-21T11:47:17Z",
+                "open_issues": 0,
+                "owner": "DarkNavySecurity",
+                "repo": "web3-skills",
+                "stars": 107,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:37:05.964Z"
+            },
+            {
+              "node_type": "item",
               "title": "GPTScan",
               "description": "(CLI) - First GPT + static analysis hybrid for logic vulnerability detection. Published ICSE 2024.",
               "children": [],
@@ -185,48 +227,6 @@
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
                 "stars": 106,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T15:37:05.964Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DarkNavy Contract Auditor",
-              "description": "(Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
-                "homepage": null,
-                "id": 1189319883,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-21T11:47:17Z",
-                "open_issues": 0,
-                "owner": "DarkNavySecurity",
-                "repo": "web3-skills",
-                "stars": 105,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T15:37:05.964Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DarkNavy Client Auditor",
-              "description": "(Skill) - Blockchain client auditor where hunt agents explore freely with vulnerability handbooks as guides, not rigid sequences, targeting execution/consensus clients and bridges in Go, Rust, C/C++, and Java.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Web3 security skills kit — smart contract auditing, blockchain client analysis, and on-chain exploit investigation.",
-                "homepage": null,
-                "id": 1189319883,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-21T11:47:17Z",
-                "open_issues": 0,
-                "owner": "DarkNavySecurity",
-                "repo": "web3-skills",
-                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-09T20:48:17Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-14T05:49:18Z",
+            "open_issues": 25,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7055,
+            "stars": 7070,
             "topics": [
               "agent-skills"
             ]
@@ -411,7 +411,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 105,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -772,7 +772,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 688,
+                "stars": 687,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -798,7 +798,7 @@
                 "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 203,
+                "stars": 202,
                 "topics": [
                   "dataset",
                   "ethereum",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T08:30:47.418Z",
+    "last_updated": "2026-09-14T09:13:05.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
