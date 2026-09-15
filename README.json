@@ -163,7 +163,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 107,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -184,7 +184,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 107,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-14T05:49:18Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-14T22:58:18Z",
+            "open_issues": 24,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7070,
+            "stars": 7083,
             "topics": [
               "agent-skills"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 44,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 332,
+            "stars": 335,
             "topics": [
               "blockchain",
               "certora",
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 107,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -455,7 +455,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-05-19T22:18:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "trailofbits",
             "repo": "slither-mcp",
             "stars": 96,
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "zerocoolailabs",
             "repo": "ZeroSkills",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "agents",
                   "ai",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:13:05.868Z",
+    "last_updated": "2026-09-15T08:55:36.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
