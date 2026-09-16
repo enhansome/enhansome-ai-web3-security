@@ -38,8 +38,8 @@
                 "id": 1043736566,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-14T02:16:37Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-16T07:26:37Z",
+                "open_issues": 17,
                 "owner": "scabench-org",
                 "repo": "hound",
                 "stars": 813,
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -163,7 +163,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 110,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -184,28 +184,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 110,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T15:37:05.964Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GPTScan",
-              "description": "(CLI) - First GPT + static analysis hybrid for logic vulnerability detection. Published ICSE 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ICSE'24 GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis",
-                "homepage": "https://dl.acm.org/doi/abs/10.1145/3597503.3639117",
-                "id": 807200241,
-                "language": "Java",
-                "license": "AGPL-3.0",
-                "last_commit": "2024-12-11T12:47:06Z",
-                "open_issues": 5,
-                "owner": "GPTScan",
-                "repo": "GPTScan",
-                "stars": 106,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -226,6 +205,27 @@
                 "open_issues": 0,
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
+                "stars": 108,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T15:37:05.964Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GPTScan",
+              "description": "(CLI) - First GPT + static analysis hybrid for logic vulnerability detection. Published ICSE 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ICSE'24 GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis",
+                "homepage": "https://dl.acm.org/doi/abs/10.1145/3597503.3639117",
+                "id": 807200241,
+                "language": "Java",
+                "license": "AGPL-3.0",
+                "last_commit": "2024-12-11T12:47:06Z",
+                "open_issues": 5,
+                "owner": "GPTScan",
+                "repo": "GPTScan",
                 "stars": 106,
                 "topics": []
               },
@@ -268,7 +268,7 @@
                 "open_issues": 0,
                 "owner": "l33tdawg",
                 "repo": "aether",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "ai",
                   "audit",
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-14T22:58:18Z",
+            "last_commit": "2026-09-15T22:20:24Z",
             "open_issues": 24,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7083,
+            "stars": 7111,
             "topics": [
               "agent-skills"
             ]
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 110,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 455,
+                "stars": 456,
                 "topics": [
                   "agents",
                   "ai",
@@ -848,7 +848,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-02T20:59:34Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
                 "stars": 71,
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:55:36.295Z",
+    "last_updated": "2026-09-16T08:48:36.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -914,7 +914,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
       "stars": 96,
