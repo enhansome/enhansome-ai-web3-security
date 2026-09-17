@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1148,
+                "stars": 1155,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -38,8 +38,8 @@
                 "id": 1043736566,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T07:26:37Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-17T02:03:25Z",
+                "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
                 "stars": 813,
@@ -142,7 +142,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-15T22:20:24Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-16T22:05:12Z",
+            "open_issues": 26,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7111,
+            "stars": 7124,
             "topics": [
               "agent-skills"
             ]
@@ -355,7 +355,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-09-07T06:05:15Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "Certora",
             "repo": "CertoraProver",
             "stars": 335,
@@ -411,7 +411,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -531,7 +531,7 @@
             "open_issues": 1,
             "owner": "zerocoolailabs",
             "repo": "ZeroSkills",
-            "stars": 55,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -851,7 +851,7 @@
                 "open_issues": 1,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:48:36.579Z",
+    "last_updated": "2026-09-17T08:52:09.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
