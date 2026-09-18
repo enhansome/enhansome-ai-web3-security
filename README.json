@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -116,7 +116,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -142,7 +142,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -335,7 +335,7 @@
             "open_issues": 26,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7124,
+            "stars": 7144,
             "topics": [
               "agent-skills"
             ]
@@ -772,7 +772,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 687,
+                "stars": 688,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -798,7 +798,7 @@
                 "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "dataset",
                   "ethereum",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T08:52:09.742Z",
+    "last_updated": "2026-09-18T08:27:41.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
