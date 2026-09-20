@@ -335,7 +335,7 @@
             "open_issues": 26,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7157,
+            "stars": 7171,
             "topics": [
               "agent-skills"
             ]
@@ -475,6 +475,27 @@
         },
         {
           "node_type": "item",
+          "title": "Grimoire",
+          "description": "Security research toolkit for Claude Code that amplifies auditor skill with librarian (reference lookup), cartography (codebase mapping), scribe (detection module distillation), and automated PoC generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An agentic auditing stack",
+            "homepage": null,
+            "id": 1159486008,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-06-30T08:24:26Z",
+            "open_issues": 1,
+            "owner": "JoranHonig",
+            "repo": "grimoire",
+            "stars": 79,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:37:05.964Z"
+        },
+        {
+          "node_type": "item",
           "title": "Cholakov's Foundry PoC Mainnet Fork",
           "description": "Skill for writing end-to-end Foundry PoC tests that reproduce smart contract vulnerabilities against real deployed protocols on mainnet forks across EVM chains.",
           "children": [],
@@ -490,27 +511,6 @@
             "owner": "cholakovvv",
             "repo": "foundry-poc-mainnet-fork",
             "stars": 75,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:37:05.964Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Grimoire",
-          "description": "Security research toolkit for Claude Code that amplifies auditor skill with librarian (reference lookup), cartography (codebase mapping), scribe (detection module distillation), and automated PoC generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An agentic auditing stack",
-            "homepage": null,
-            "id": 1159486008,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-06-30T08:24:26Z",
-            "open_issues": 1,
-            "owner": "JoranHonig",
-            "repo": "grimoire",
-            "stars": 63,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "agents",
                   "ai",
@@ -877,7 +877,7 @@
                 "id": 1006494233,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-09-12T14:57:30Z",
+                "last_commit": "2026-09-19T14:06:25Z",
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:15:35.115Z",
+    "last_updated": "2026-09-20T08:47:38.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
