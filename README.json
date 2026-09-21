@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1157,
+                "stars": 1159,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 813,
+                "stars": 814,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -142,7 +142,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-16T22:05:12Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-21T08:47:59Z",
+            "open_issues": 27,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7171,
+            "stars": 7190,
             "topics": [
               "agent-skills"
             ]
@@ -489,7 +489,7 @@
             "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
-            "stars": 79,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -877,7 +877,7 @@
                 "id": 1006494233,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-09-19T14:06:25Z",
+                "last_commit": "2026-09-20T09:58:32Z",
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:47:38.993Z",
+    "last_updated": "2026-09-21T09:15:03.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
