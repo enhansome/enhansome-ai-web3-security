@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1164,
+                "stars": 1180,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 814,
+                "stars": 815,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-21T23:11:39Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-23T08:29:10Z",
+            "open_issues": 38,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7198,
+            "stars": 7209,
             "topics": [
               "agent-skills"
             ]
@@ -798,7 +798,7 @@
                 "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "dataset",
                   "ethereum",
@@ -824,7 +824,7 @@
                 "open_issues": 6,
                 "owner": "smartbugs",
                 "repo": "smartbugs-curated",
-                "stars": 162,
+                "stars": 164,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:46:18.393Z",
+    "last_updated": "2026-09-23T08:48:01.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
