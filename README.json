@@ -17,11 +17,11 @@
                 "id": 1165212299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-07-09T15:10:37Z",
+                "last_commit": "2026-09-23T12:21:48Z",
                 "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1180,
+                "stars": 1193,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 815,
+                "stars": 814,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -95,7 +95,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -142,7 +142,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -163,7 +163,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -184,7 +184,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-23T08:29:10Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-23T16:36:04Z",
+            "open_issues": 41,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7209,
+            "stars": 7224,
             "topics": [
               "agent-skills"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 46,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "blockchain",
               "certora",
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -552,7 +552,7 @@
             "open_issues": 0,
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
-            "stars": 53,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -573,7 +573,7 @@
             "open_issues": 2,
             "owner": "columbia",
             "repo": "SmartInv",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -881,7 +881,7 @@
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:48:01.239Z",
+    "last_updated": "2026-09-24T08:42:39.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
