@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-23T12:21:48Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1193,
+                "stars": 1199,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 814,
+                "stars": 816,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -63,7 +63,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 297,
+                "stars": 299,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -112,7 +112,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T08:11:19Z",
+                "last_commit": "2026-09-24T10:40:52Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-23T16:36:04Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-25T08:45:31Z",
+            "open_issues": 47,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7224,
+            "stars": 7234,
             "topics": [
               "agent-skills"
             ]
@@ -411,7 +411,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -489,7 +489,7 @@
             "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -723,7 +723,7 @@
                 "open_issues": 10,
                 "owner": "scabench-org",
                 "repo": "scabench",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:42:39.549Z",
+    "last_updated": "2026-09-25T09:03:07.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -917,7 +917,7 @@
       "open_issues": 1,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 96,
+      "stars": 97,
       "topics": [
         "awesome",
         "awesome-list"
