@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1206,
+                "stars": 1211,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -59,7 +59,7 @@
                 "id": 1183303405,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T21:28:17Z",
+                "last_commit": "2026-09-26T14:21:07Z",
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
@@ -332,10 +332,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-25T09:10:46Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7252,
+            "stars": 7261,
             "topics": [
               "agent-skills"
             ]
@@ -411,7 +411,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 126,
+            "stars": 128,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -644,7 +644,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "agents",
                   "ai",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:48:02.059Z",
+    "last_updated": "2026-09-27T09:29:30.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
