@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1212,
+                "stars": 1218,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -42,7 +42,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 818,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -116,7 +116,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -331,11 +331,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-25T09:10:46Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-28T18:06:38Z",
+            "open_issues": 49,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7275,
+            "stars": 7286,
             "topics": [
               "agent-skills"
             ]
@@ -358,7 +358,7 @@
             "open_issues": 46,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 335,
+            "stars": 336,
             "topics": [
               "blockchain",
               "certora",
@@ -510,7 +510,7 @@
             "open_issues": 0,
             "owner": "cholakovvv",
             "repo": "foundry-poc-mainnet-fork",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -768,7 +768,7 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T13:59:54Z",
+                "last_commit": "2026-09-28T13:16:04Z",
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
@@ -877,7 +877,7 @@
                 "id": 1006494233,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-09-20T09:58:32Z",
+                "last_commit": "2026-09-28T15:04:30Z",
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
@@ -905,7 +905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T10:07:02.993Z",
+    "last_updated": "2026-09-29T10:05:25.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
