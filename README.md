@@ -17,7 +17,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 
 ### Open Source
 
-* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,217 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-23 (Skill) - Fast (\~5 min) Solidity security feedback during development. Built by Pashov Audit Group.
+* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,218 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-30 (Skill) - Fast (\~5 min) Solidity security feedback during development. Built by Pashov Audit Group.
 * [Hound](https://github.com/scabench-org/hound) ⭐ 818 | 🐛 16 | 🌐 Python | 📅 2026-09-17 (CLI) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.
 * [Plamen](https://github.com/PlamenTSV/plamen) ⭐ 299 | 🐛 8 | 🌐 Python | 📅 2026-09-26 (Skill) - Autonomous Web3 audit agent orchestrating 15–95 AI agents across 8 phases with verified PoC exploits. Supports EVM, Solana/Anchor, Aptos Move, and Sui Move.
 * [Nemesis Auditor](https://github.com/0xiehnnkta/nemesis-auditor) ⭐ 244 | 🐛 2 | 📅 2026-03-16 (Skill) - Iterative deep-logic audit agent alternating Feynman Auditor (first-principles reasoning) and State Inconsistency Auditor (coupled state desync detection). Runs until convergence (max 6 passes).
@@ -25,7 +25,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 * [Archethect SC-Auditor](https://github.com/Archethect/sc-auditor) ⭐ 127 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-13 (Skill) - Map-Hunt-Attack auditor with 6 parallel hunt agents, Devil's Advocate verification, and 8 MCP tools (Slither, Aderyn, Solodit, Cyfrin checklist, Foundry PoC, Echidna, Medusa, Halmos).
 * [DarkNavy Contract Auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/contract-auditor) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2026-07-21 (Skill) - Coverage-first Solidity auditor that provides domain patterns as references, not scripts, with DFS path extraction, parallel hunt agents, and 3-gate adversarial validation.
 * [DarkNavy Client Auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/client-auditor) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2026-07-21 (Skill) - Blockchain client auditor where hunt agents explore freely with vulnerability handbooks as guides, not rigid sequences, targeting execution/consensus clients and bridges in Go, Rust, C/C++, and Java.
-* [SCV Scan](https://github.com/kadenzipfel/scv-scan) ⭐ 108 | 🐛 0 | 📅 2026-03-11 (Skill) - Scans Solidity codebases for 36 unique vulnerability classes.
+* [SCV Scan](https://github.com/kadenzipfel/scv-scan) ⭐ 109 | 🐛 0 | 📅 2026-03-11 (Skill) - Scans Solidity codebases for 36 unique vulnerability classes.
 * [GPTScan](https://github.com/GPTScan/GPTScan) ⭐ 106 | 🐛 5 | 🌐 Java | 📅 2024-12-11 (CLI) - First GPT + static analysis hybrid for logic vulnerability detection. Published ICSE 2024.
 * [SolidityGuard](https://github.com/alt-research/SolidityGuard) ⚠️ Archived (CLI) - Security auditor with 104 vulnerability patterns and 9 integrated tools (Slither, Mythril, Echidna, Aderyn, Foundry, Medusa, Halmos, Certora, EVMBench). 100% on 85/85 CTF challenges and 120/120 EVMBench score.
 * [Aether](https://github.com/l33tdawg/aether) ⭐ 67 | 🐛 0 | 🌐 Python | 📅 2026-04-27 (CLI) - End-to-end Python auditor with TUI: AST/static analysis (180+ detectors), Halmos symbolic execution, 6-pass LLM reasoning pipeline (GPT/Gemini/Claude), and automated PoC generation with Foundry.
@@ -53,7 +53,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 
 Free and open source components you plug into your AI agent's workflow - skills that augment reasoning, data connectors, tool bridges, spec generators, and training frameworks. These don't orchestrate finding bugs on their own but make your auditing agent smarter.
 
-* [Trail of Bits Skills](https://github.com/trailofbits/skills) ⭐ 7,301 | 🐛 49 | 🌐 Python | 📅 2026-09-28 - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
+* [Trail of Bits Skills](https://github.com/trailofbits/skills) ⭐ 7,317 | 🐛 49 | 🌐 Python | 📅 2026-09-28 - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
 * [Certora Prover + AI Composer](https://github.com/Certora/CertoraProver) ⭐ 336 | 🐛 46 | 🌐 Kotlin | 📅 2026-09-07 - State-of-the-art formal verification prover. AI Composer helps generate CVL specifications using LLMs.
 * [Claudit](https://github.com/marchev/claudit) ⭐ 158 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-23 - MCP server for searching Solodit's 20K+ smart contract security findings with rich filtering. Integrates with Claude Code, Codex CLI, and Cursor.
 * [QuillAudits Claude Skills](https://github.com/quillai-network/qs_skills) ⭐ 128 | 🐛 1 | 🌐 Shell | 📅 2026-03-30 - 10 specialized skills covering OWASP Smart Contract Top 10: behavioral state analysis, adversarial simulation, invariant inference, Bayesian scoring.
@@ -109,4 +109,4 @@ See [contributing.md](contributing.md) for detailed criteria.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
