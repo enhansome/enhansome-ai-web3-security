@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-28T18:06:38Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-02T09:49:29Z",
+            "open_issues": 54,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7317,
+            "stars": 7338,
             "topics": [
               "agent-skills"
             ]
@@ -500,11 +500,11 @@
             "id": 1159486008,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-06-30T08:24:26Z",
+            "last_commit": "2026-10-01T12:42:59Z",
             "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
-            "stars": 85,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 457,
+                "stars": 458,
                 "topics": [
                   "agents",
                   "ai",
@@ -787,7 +787,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 687,
+                "stars": 688,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T10:24:44.709Z",
+    "last_updated": "2026-10-02T10:00:40.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
