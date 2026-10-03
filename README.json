@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1220,
+                "stars": 1221,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -350,7 +350,7 @@
             "open_issues": 55,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7347,
+            "stars": 7348,
             "topics": [
               "agent-skills"
             ]
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:04.554Z",
+    "last_updated": "2026-10-03T09:23:37.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
