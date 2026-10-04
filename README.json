@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-30T14:05:48Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1221,
+                "stars": 1224,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -350,7 +350,7 @@
             "open_issues": 55,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7348,
+            "stars": 7354,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:23:37.081Z",
+    "last_updated": "2026-10-04T10:02:36.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
