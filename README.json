@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1224,
+                "stars": 1223,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,11 +127,11 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T00:57:03Z",
+                "last_commit": "2026-10-04T20:58:14Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-02T10:05:35Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7354,
+            "stars": 7370,
             "topics": [
               "agent-skills"
             ]
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:02:36.275Z",
+    "last_updated": "2026-10-05T10:48:08.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
