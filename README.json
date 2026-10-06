@@ -17,11 +17,11 @@
                 "id": 1165212299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T14:05:48Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-05T12:32:25Z",
+                "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1223,
+                "stars": 1227,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 818,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 299,
+                "stars": 302,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-02T10:05:35Z",
-            "open_issues": 56,
+            "open_issues": 37,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7370,
+            "stars": 7388,
             "topics": [
               "agent-skills"
             ]
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -473,7 +473,7 @@
             "open_issues": 17,
             "owner": "trailofbits",
             "repo": "slither-mcp",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "ethereum",
               "mcp",
@@ -567,7 +567,7 @@
             "open_issues": 0,
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -783,8 +783,8 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T13:16:04Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T17:17:26Z",
+                "open_issues": 2,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
                 "stars": 688,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:48:08.485Z",
+    "last_updated": "2026-10-06T10:19:09.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
