@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1231,
+                "stars": 1233,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 244,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-02T10:05:35Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-07T16:35:30Z",
+            "open_issues": 38,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7405,
+            "stars": 7424,
             "topics": [
               "agent-skills"
             ]
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -546,7 +546,7 @@
             "open_issues": 1,
             "owner": "zerocoolailabs",
             "repo": "ZeroSkills",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -738,7 +738,7 @@
                 "open_issues": 10,
                 "owner": "scabench-org",
                 "repo": "scabench",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:31:46.866Z",
+    "last_updated": "2026-10-08T10:52:51.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
