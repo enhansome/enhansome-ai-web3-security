@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T12:32:25Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1233,
+                "stars": 1235,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -350,7 +350,7 @@
             "open_issues": 38,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7424,
+            "stars": 7444,
             "topics": [
               "agent-skills"
             ]
@@ -373,7 +373,7 @@
             "open_issues": 46,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "blockchain",
               "certora",
@@ -567,7 +567,7 @@
             "open_issues": 0,
             "owner": "CDSecurity",
             "repo": "cdsecurity-skills",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "agents",
                   "ai",
@@ -783,7 +783,7 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T10:24:35Z",
+                "last_commit": "2026-10-09T10:35:49Z",
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:52:51.791Z",
+    "last_updated": "2026-10-09T10:51:29.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
