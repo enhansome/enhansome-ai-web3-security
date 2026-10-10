@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T12:32:25Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "pashov",
                 "repo": "skills",
                 "stars": 1235,
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-07T16:35:30Z",
+            "last_commit": "2026-10-09T22:09:18Z",
             "open_issues": 38,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7444,
+            "stars": 7456,
             "topics": [
               "agent-skills"
             ]
@@ -866,7 +866,7 @@
                 "open_issues": 1,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
-                "stars": 72,
+                "stars": 71,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:51:29.623Z",
+    "last_updated": "2026-10-10T10:05:32.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",

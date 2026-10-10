@@ -17,7 +17,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 
 ### Open Source
 
-* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,235 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-05 (Skill) - Fast (\~5 min) Solidity security feedback during development. Built by Pashov Audit Group.
+* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,235 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-05 (Skill) - Fast (\~5 min) Solidity security feedback during development. Built by Pashov Audit Group.
 * [Hound](https://github.com/scabench-org/hound) ⭐ 819 | 🐛 16 | 🌐 Python | 📅 2026-09-17 (CLI) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.
 * [Plamen](https://github.com/PlamenTSV/plamen) ⭐ 303 | 🐛 8 | 🌐 Python | 📅 2026-09-26 (Skill) - Autonomous Web3 audit agent orchestrating 15–95 AI agents across 8 phases with verified PoC exploits. Supports EVM, Solana/Anchor, Aptos Move, and Sui Move.
 * [Nemesis Auditor](https://github.com/0xiehnnkta/nemesis-auditor) ⭐ 243 | 🐛 2 | 📅 2026-03-16 (Skill) - Iterative deep-logic audit agent alternating Feynman Auditor (first-principles reasoning) and State Inconsistency Auditor (coupled state desync detection). Runs until convergence (max 6 passes).
@@ -53,7 +53,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 
 Free and open source components you plug into your AI agent's workflow - skills that augment reasoning, data connectors, tool bridges, spec generators, and training frameworks. These don't orchestrate finding bugs on their own but make your auditing agent smarter.
 
-* [Trail of Bits Skills](https://github.com/trailofbits/skills) ⭐ 7,444 | 🐛 38 | 🌐 Python | 📅 2026-10-07 - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
+* [Trail of Bits Skills](https://github.com/trailofbits/skills) ⭐ 7,456 | 🐛 38 | 🌐 Python | 📅 2026-10-09 - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
 * [Certora Prover + AI Composer](https://github.com/Certora/CertoraProver) ⭐ 337 | 🐛 46 | 🌐 Kotlin | 📅 2026-09-07 - State-of-the-art formal verification prover. AI Composer helps generate CVL specifications using LLMs.
 * [Claudit](https://github.com/marchev/claudit) ⭐ 159 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-23 - MCP server for searching Solodit's 20K+ smart contract security findings with rich filtering. Integrates with Claude Code, Codex CLI, and Cursor.
 * [QuillAudits Claude Skills](https://github.com/quillai-network/qs_skills) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2026-03-30 - 10 specialized skills covering OWASP Smart Contract Top 10: behavioral state analysis, adversarial simulation, invariant inference, Bayesian scoring.
@@ -91,17 +91,17 @@ Frameworks and datasets for measuring, training, and evaluating AI security tool
 * [SmartBugs](https://github.com/smartbugs/smartbugs) ⭐ 688 | 🐛 1 | 🌐 Python | 📅 2026-10-09 - Framework integrating 20+ analysis tools with SB Curated (143 contracts, 208 vulnerabilities), SB Wild (47,398 contracts), and SolidiFI (9,369 injected bugs). Widely used in ML research.
 * [Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) ⭐ 204 | 🐛 11 | 📅 2023-08-21 - 40K+ Ethereum contracts labeled for reentrancy, timestamp, integer overflow, and delegatecall vulnerabilities.
 * [SmartBugs Curated](https://github.com/smartbugs/smartbugs-curated) ⭐ 164 | 🐛 6 | 🌐 Solidity | 📅 2024-06-16 - Curated dataset of Solidity smart contracts annotated with tagged vulnerabilities. Widely used in ML research.
-* [Awesome Smart Contract Datasets](https://github.com/acorn421/awesome-smart-contract-datasets) ⭐ 72 | 🐛 1 | 📅 2026-08-02 - Meta-list of datasets for training/evaluating ML approaches in smart contract security.
+* [Awesome Smart Contract Datasets](https://github.com/acorn421/awesome-smart-contract-datasets) ⭐ 71 | 🐛 1 | 📅 2026-08-02 - Meta-list of datasets for training/evaluating ML approaches in smart contract security.
 * [Forge Dataset](https://github.com/shenyimings/FORGE-Artifacts) ⭐ 43 | 🐛 0 | 🌐 Solidity | 📅 2026-09-30 - LLM-driven dataset construction from 6,454 audit reports → 27,497 findings in 81,390 Solidity files covering 296 CWE categories. Published ICSE 2026.
 * [SCV-1-2000](https://huggingface.co/datasets/darkknight25/Smart_Contract_Vulnerability_Dataset) - 2,000-entry JSONL dataset covering 15 vulnerability categories with PoCs.
 
 ## Related Lists
 
-* [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) ⭐ 589 | 🐛 0 | 📅 2026-10-02 - AI Web3 security tools/skills/agents, constantly updated.
+* [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) ⭐ 591 | 🐛 1 | 📅 2026-10-02 - AI Web3 security tools/skills/agents, constantly updated.
 * [HackenProof AI Agents Directory](https://hackenproof.com/security-ai-agents) - Aggregated directory of AI security agents.
 * [Forefy Auditor Skills Registry](https://forefy.com/skills) - Community-reviewed directory of AI auditing skills for smart contracts.
 
-> For general (non-AI) Web3 security resources, see [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,623 | 🐛 18 | 📅 2026-03-01, [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,483 | 🐛 41 | 📅 2024-08-20, and [Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) ⭐ 476 | 🐛 6 | 📅 2026-08-25.
+> For general (non-AI) Web3 security resources, see [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,623 | 🐛 18 | 📅 2026-03-01, [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,482 | 🐛 41 | 📅 2024-08-20, and [Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) ⭐ 476 | 🐛 6 | 📅 2026-08-25.
 
 ## Contributing
 
@@ -109,4 +109,4 @@ See [contributing.md](contributing.md) for detailed criteria.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
