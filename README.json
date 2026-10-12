@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1236,
+                "stars": 1237,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 303,
+                "stars": 305,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-09T22:09:18Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7472,
+            "stars": 7491,
             "topics": [
               "agent-skills"
             ]
@@ -787,7 +787,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 688,
+                "stars": 689,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -892,7 +892,7 @@
                 "id": 1006494233,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-09-30T05:15:25Z",
+                "last_commit": "2026-10-11T13:23:15Z",
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:16:14.907Z",
+    "last_updated": "2026-10-12T11:15:58.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
