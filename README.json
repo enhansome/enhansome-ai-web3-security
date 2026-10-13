@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1237,
+                "stars": 1239,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 819,
+                "stars": 820,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-09T22:09:18Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-13T10:55:22Z",
+            "open_issues": 43,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7491,
+            "stars": 7503,
             "topics": [
               "agent-skills"
             ]
@@ -473,7 +473,7 @@
             "open_issues": 17,
             "owner": "trailofbits",
             "repo": "slither-mcp",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "ethereum",
               "mcp",
@@ -500,7 +500,7 @@
             "id": 1159486008,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T12:42:59Z",
+            "last_commit": "2026-10-13T09:43:22Z",
             "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
@@ -588,7 +588,7 @@
             "open_issues": 2,
             "owner": "columbia",
             "repo": "SmartInv",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 463,
+                "stars": 462,
                 "topics": [
                   "agents",
                   "ai",
@@ -784,7 +784,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T10:35:49Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
                 "stars": 689,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:15:58.674Z",
+    "last_updated": "2026-10-13T10:58:08.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
