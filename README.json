@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1239,
+                "stars": 1249,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 820,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -283,7 +283,7 @@
                 "open_issues": 0,
                 "owner": "l33tdawg",
                 "repo": "aether",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "ai",
                   "audit",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-13T10:55:22Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-13T17:33:22Z",
+            "open_issues": 55,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7503,
+            "stars": 7523,
             "topics": [
               "agent-skills"
             ]
@@ -369,7 +369,7 @@
             "id": 937552130,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T06:05:15Z",
+            "last_commit": "2026-10-14T08:32:54Z",
             "open_issues": 46,
             "owner": "Certora",
             "repo": "CertoraProver",
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 130,
+            "stars": 129,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T10:58:08.087Z",
+    "last_updated": "2026-10-14T08:59:03.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
