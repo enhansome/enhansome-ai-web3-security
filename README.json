@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1249,
+                "stars": 1256,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-13T17:33:22Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-15T08:08:05Z",
+            "open_issues": 51,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7523,
+            "stars": 7549,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "agents",
                   "ai",
@@ -693,7 +693,7 @@
                 "open_issues": 5,
                 "owner": "safety-research",
                 "repo": "SCONE-bench",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -783,8 +783,8 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T10:35:49Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-14T13:20:58Z",
+                "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
                 "stars": 689,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:59:03.320Z",
+    "last_updated": "2026-10-15T08:33:02.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
