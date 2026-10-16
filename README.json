@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T12:32:25Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1256,
+                "stars": 1261,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T20:58:14Z",
+                "last_commit": "2026-10-15T09:47:19Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-15T08:08:05Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-15T19:32:12Z",
+            "open_issues": 46,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7549,
+            "stars": 7585,
             "topics": [
               "agent-skills"
             ]
@@ -546,7 +546,7 @@
             "open_issues": 1,
             "owner": "zerocoolailabs",
             "repo": "ZeroSkills",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -588,7 +588,7 @@
             "open_issues": 2,
             "owner": "columbia",
             "repo": "SmartInv",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -783,7 +783,7 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T13:20:58Z",
+                "last_commit": "2026-10-15T12:12:54Z",
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
@@ -813,7 +813,7 @@
                 "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 204,
+                "stars": 205,
                 "topics": [
                   "dataset",
                   "ethereum",
@@ -839,7 +839,7 @@
                 "open_issues": 6,
                 "owner": "smartbugs",
                 "repo": "smartbugs-curated",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:33:02.126Z",
+    "last_updated": "2026-10-16T08:27:21.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
