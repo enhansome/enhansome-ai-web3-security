@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1266,
+                "stars": 1270,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 819,
+                "stars": 821,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -220,7 +220,7 @@
                 "open_issues": 0,
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
-                "stars": 109,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-15T19:32:12Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7605,
+            "stars": 7627,
             "topics": [
               "agent-skills"
             ]
@@ -373,7 +373,7 @@
             "open_issues": 46,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "blockchain",
               "certora",
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 159,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 463,
+                "stars": 462,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:00:09.497Z",
+    "last_updated": "2026-10-18T08:17:31.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -929,10 +929,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 1,
+      "open_issues": 3,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 98,
+      "stars": 114,
       "topics": [
         "awesome",
         "awesome-list"
