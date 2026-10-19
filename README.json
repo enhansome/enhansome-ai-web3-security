@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1270,
+                "stars": 1275,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T09:47:19Z",
+                "last_commit": "2026-10-18T18:56:16Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -350,7 +350,7 @@
             "open_issues": 47,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7627,
+            "stars": 7640,
             "topics": [
               "agent-skills"
             ]
@@ -370,7 +370,7 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T19:37:33Z",
-            "open_issues": 46,
+            "open_issues": 49,
             "owner": "Certora",
             "repo": "CertoraProver",
             "stars": 338,
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 129,
+            "stars": 130,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -659,7 +659,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 462,
+                "stars": 464,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:17:31.526Z",
+    "last_updated": "2026-10-19T09:15:00.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -929,10 +929,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 114,
+      "stars": 116,
       "topics": [
         "awesome",
         "awesome-list"
