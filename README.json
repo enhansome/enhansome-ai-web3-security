@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1275,
+                "stars": 1277,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 16,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 821,
+                "stars": 822,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 307,
+                "stars": 308,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T18:56:16Z",
+                "last_commit": "2026-10-19T15:44:55Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -283,7 +283,7 @@
                 "open_issues": 0,
                 "owner": "l33tdawg",
                 "repo": "aether",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "ai",
                   "audit",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-15T19:32:12Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-19T23:15:03Z",
+            "open_issues": 50,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7640,
+            "stars": 7656,
             "topics": [
               "agent-skills"
             ]
@@ -738,7 +738,7 @@
                 "open_issues": 10,
                 "owner": "scabench-org",
                 "repo": "scabench",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -787,7 +787,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 689,
+                "stars": 690,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:15:00.315Z",
+    "last_updated": "2026-10-20T08:50:03.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
