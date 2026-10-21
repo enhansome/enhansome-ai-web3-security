@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1277,
+                "stars": 1280,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -54,10 +54,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-17T02:03:25Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 822,
+                "stars": 821,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,11 +127,11 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T15:44:55Z",
+                "last_commit": "2026-10-20T14:45:31Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 154,
+                "stars": 153,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -199,7 +199,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-19T23:15:03Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-20T20:20:17Z",
+            "open_issues": 132,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7656,
+            "stars": 7670,
             "topics": [
               "agent-skills"
             ]
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 130,
+            "stars": 129,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -452,7 +452,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 114,
+            "stars": 113,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -473,7 +473,7 @@
             "open_issues": 17,
             "owner": "trailofbits",
             "repo": "slither-mcp",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "ethereum",
               "mcp",
@@ -504,7 +504,7 @@
             "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
-            "stars": 88,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -655,11 +655,11 @@
                 "id": 1161070751,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:27:36Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-20T19:07:03Z",
+                "open_issues": 8,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 464,
+                "stars": 463,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:50:03.634Z",
+    "last_updated": "2026-10-21T08:50:00.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -932,7 +932,7 @@
       "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 116,
+      "stars": 115,
       "topics": [
         "awesome",
         "awesome-list"
