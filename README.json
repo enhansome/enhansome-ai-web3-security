@@ -17,11 +17,11 @@
                 "id": 1165212299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T12:32:25Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-21T09:22:05Z",
+                "open_issues": 9,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1280,
+                "stars": 1281,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T14:45:31Z",
+                "last_commit": "2026-10-21T11:59:12Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-20T20:20:17Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-22T02:11:23Z",
+            "open_issues": 131,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7670,
+            "stars": 7707,
             "topics": [
               "agent-skills"
             ]
@@ -473,7 +473,7 @@
             "open_issues": 17,
             "owner": "trailofbits",
             "repo": "slither-mcp",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "ethereum",
               "mcp",
@@ -787,7 +787,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 690,
+                "stars": 689,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:50:00.542Z",
+    "last_updated": "2026-10-22T08:52:46.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -932,7 +932,7 @@
       "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 115,
+      "stars": 116,
       "topics": [
         "awesome",
         "awesome-list"
