@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1281,
+                "stars": 1284,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T11:59:12Z",
+                "last_commit": "2026-10-22T16:47:01Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -199,7 +199,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -341,16 +341,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+            "description": "Trail of Bits skills for security research, vulnerability detection, and audit workflows",
             "homepage": null,
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-22T02:11:23Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-22T20:25:31Z",
+            "open_issues": 130,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7707,
+            "stars": 7740,
             "topics": [
               "agent-skills"
             ]
@@ -452,7 +452,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -655,11 +655,11 @@
                 "id": 1161070751,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T19:07:03Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-22T13:27:56Z",
+                "open_issues": 9,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "agents",
                   "ai",
@@ -693,7 +693,7 @@
                 "open_issues": 5,
                 "owner": "safety-research",
                 "repo": "SCONE-bench",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T08:52:46.016Z",
+    "last_updated": "2026-10-23T08:47:47.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -932,7 +932,7 @@
       "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 116,
+      "stars": 117,
       "topics": [
         "awesome",
         "awesome-list"
