@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:22:05Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1285,
+                "stars": 1288,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 17,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 821,
+                "stars": 822,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T16:47:01Z",
+                "last_commit": "2026-10-24T18:59:22Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -350,7 +350,7 @@
             "open_issues": 141,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7764,
+            "stars": 7791,
             "topics": [
               "agent-skills"
             ]
@@ -370,10 +370,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T19:37:33Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "blockchain",
               "certora",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:21:47.921Z",
+    "last_updated": "2026-10-25T08:40:57.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
