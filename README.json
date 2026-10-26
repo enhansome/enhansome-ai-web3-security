@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1288,
+                "stars": 1287,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 248,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T18:59:22Z",
+                "last_commit": "2026-10-25T15:41:03Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -283,7 +283,7 @@
                 "open_issues": 0,
                 "owner": "l33tdawg",
                 "repo": "aether",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "ai",
                   "audit",
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-10-24T01:53:03Z",
-            "open_issues": 141,
+            "open_issues": 153,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7791,
+            "stars": 7806,
             "topics": [
               "agent-skills"
             ]
@@ -588,7 +588,7 @@
             "open_issues": 2,
             "owner": "columbia",
             "repo": "SmartInv",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -659,7 +659,7 @@
                 "open_issues": 9,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "agents",
                   "ai",
@@ -783,8 +783,8 @@
                 "id": 186633437,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:58:16Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T18:00:38Z",
+                "open_issues": 2,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
                 "stars": 689,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:40:57.183Z",
+    "last_updated": "2026-10-26T09:18:13.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -929,7 +929,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 5,
+      "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
       "stars": 117,
