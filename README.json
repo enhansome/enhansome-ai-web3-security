@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:22:05Z",
-                "open_issues": 12,
+                "open_issues": 18,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1289,
+                "stars": 1290,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -54,7 +54,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-17T02:03:25Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "scabench-org",
                 "repo": "hound",
                 "stars": 822,
@@ -128,7 +128,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-26T13:04:56Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "forefy",
                 "repo": ".context",
                 "stars": 153,
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-24T01:53:03Z",
-            "open_issues": 153,
+            "last_commit": "2026-10-28T01:15:01Z",
+            "open_issues": 154,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7831,
+            "stars": 7857,
             "topics": [
               "agent-skills"
             ]
@@ -500,7 +500,7 @@
             "id": 1159486008,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-13T09:43:22Z",
+            "last_commit": "2026-10-27T15:17:40Z",
             "open_issues": 1,
             "owner": "JoranHonig",
             "repo": "grimoire",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:17:28.166Z",
+    "last_updated": "2026-10-28T09:58:19.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
