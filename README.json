@@ -57,7 +57,7 @@
                 "open_issues": 18,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 822,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,8 +127,8 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T13:04:56Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-29T07:42:40Z",
+                "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
                 "stars": 153,
@@ -220,7 +220,7 @@
                 "open_issues": 0,
                 "owner": "kadenzipfel",
                 "repo": "scv-scan",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-28T01:15:01Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-28T19:41:17Z",
+            "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7857,
+            "stars": 7872,
             "topics": [
               "agent-skills"
             ]
@@ -426,7 +426,7 @@
             "open_issues": 1,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:58:19.672Z",
+    "last_updated": "2026-10-29T10:21:37.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
