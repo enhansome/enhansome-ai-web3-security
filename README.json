@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:22:05Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T07:42:40Z",
+                "last_commit": "2026-10-29T12:57:06Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -199,7 +199,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 115,
+                "stars": 116,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -350,7 +350,7 @@
             "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7872,
+            "stars": 7883,
             "topics": [
               "agent-skills"
             ]
@@ -423,7 +423,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-03-30T10:10:00Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
             "stars": 131,
@@ -452,7 +452,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -787,7 +787,7 @@
                 "open_issues": 1,
                 "owner": "smartbugs",
                 "repo": "smartbugs",
-                "stars": 689,
+                "stars": 690,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -839,7 +839,7 @@
                 "open_issues": 6,
                 "owner": "smartbugs",
                 "repo": "smartbugs-curated",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:21:37.670Z",
+    "last_updated": "2026-10-30T10:23:52.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
