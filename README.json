@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1291,
+                "stars": 1292,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -350,7 +350,7 @@
             "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7883,
+            "stars": 7908,
             "topics": [
               "agent-skills"
             ]
@@ -892,7 +892,7 @@
                 "id": 1006494233,
                 "language": "Solidity",
                 "license": "MIT",
-                "last_commit": "2026-10-11T13:23:15Z",
+                "last_commit": "2026-10-31T06:40:48Z",
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:23:52.368Z",
+    "last_updated": "2026-10-31T09:54:30.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
