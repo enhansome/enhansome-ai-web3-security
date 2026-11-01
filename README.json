@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1292,
+                "stars": 1293,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -350,7 +350,7 @@
             "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7908,
+            "stars": 7926,
             "topics": [
               "agent-skills"
             ]
@@ -470,7 +470,7 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-05-19T22:18:12Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "trailofbits",
             "repo": "slither-mcp",
             "stars": 98,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:54:30.222Z",
+    "last_updated": "2026-11-01T10:45:19.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -932,7 +932,7 @@
       "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 118,
+      "stars": 119,
       "topics": [
         "awesome",
         "awesome-list"
