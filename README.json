@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1293,
+                "stars": 1297,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 309,
+                "stars": 311,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 116,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -199,7 +199,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 116,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -241,7 +241,7 @@
                 "open_issues": 5,
                 "owner": "GPTScan",
                 "repo": "GPTScan",
-                "stars": 106,
+                "stars": 107,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -350,7 +350,7 @@
             "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7926,
+            "stars": 7948,
             "topics": [
               "agent-skills"
             ]
@@ -452,7 +452,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 116,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T10:45:19.591Z",
+    "last_updated": "2026-11-02T11:37:05.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
