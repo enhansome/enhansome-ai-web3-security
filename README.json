@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T12:57:06Z",
+                "last_commit": "2026-11-02T14:02:52Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-28T19:41:17Z",
-            "open_issues": 155,
+            "last_commit": "2026-11-02T20:47:34Z",
+            "open_issues": 153,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7948,
+            "stars": 7975,
             "topics": [
               "agent-skills"
             ]
@@ -373,7 +373,7 @@
             "open_issues": 50,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 339,
+            "stars": 341,
             "topics": [
               "blockchain",
               "certora",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 131,
+            "stars": 133,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -656,7 +656,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T13:27:56Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
                 "stars": 467,
@@ -866,7 +866,7 @@
                 "open_issues": 1,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T11:37:05.246Z",
+    "last_updated": "2026-11-03T11:15:44.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
