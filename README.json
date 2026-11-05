@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:22:05Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "pashov",
                 "repo": "skills",
                 "stars": 1301,
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-02T20:47:34Z",
-            "open_issues": 153,
+            "last_commit": "2026-11-04T17:39:20Z",
+            "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 7993,
+            "stars": 8016,
             "topics": [
               "agent-skills"
             ]
@@ -714,7 +714,7 @@
                 "open_issues": 7,
                 "owner": "OneSavieLabs",
                 "repo": "Bastet",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "n8n",
                   "solidity"
@@ -738,7 +738,7 @@
                 "open_issues": 10,
                 "owner": "scabench-org",
                 "repo": "scabench",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:28:23.511Z",
+    "last_updated": "2026-11-05T11:25:37.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
