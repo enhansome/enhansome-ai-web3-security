@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1301,
+                "stars": 1302,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T13:04:55Z",
+                "last_commit": "2026-11-05T21:18:29Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -241,7 +241,7 @@
                 "open_issues": 5,
                 "owner": "GPTScan",
                 "repo": "GPTScan",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-04T17:39:20Z",
+            "last_commit": "2026-11-05T16:51:58Z",
             "open_issues": 155,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8016,
+            "stars": 8040,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T11:25:37.501Z",
+    "last_updated": "2026-11-06T11:24:22.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
