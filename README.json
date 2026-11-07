@@ -57,7 +57,7 @@
                 "open_issues": 18,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 823,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -283,7 +283,7 @@
                 "open_issues": 0,
                 "owner": "l33tdawg",
                 "repo": "aether",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "ai",
                   "audit",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-05T16:51:58Z",
-            "open_issues": 155,
+            "last_commit": "2026-11-06T15:20:09Z",
+            "open_issues": 154,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8040,
+            "stars": 8060,
             "topics": [
               "agent-skills"
             ]
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:24:22.105Z",
+    "last_updated": "2026-11-07T10:37:27.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
