@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 250,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T21:18:29Z",
+                "last_commit": "2026-11-07T16:35:37Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -157,7 +157,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -350,7 +350,7 @@
             "open_issues": 154,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8060,
+            "stars": 8067,
             "topics": [
               "agent-skills"
             ]
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -659,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:37:27.725Z",
+    "last_updated": "2026-11-08T10:42:07.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
