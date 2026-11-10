@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1303,
+                "stars": 1306,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 312,
+                "stars": 314,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T12:36:24Z",
+                "last_commit": "2026-11-09T20:38:03Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -350,7 +350,7 @@
             "open_issues": 154,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8084,
+            "stars": 8104,
             "topics": [
               "agent-skills"
             ]
@@ -373,7 +373,7 @@
             "open_issues": 50,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "blockchain",
               "certora",
@@ -473,7 +473,7 @@
             "open_issues": 17,
             "owner": "trailofbits",
             "repo": "slither-mcp",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "ethereum",
               "mcp",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:00:02.645Z",
+    "last_updated": "2026-11-10T11:38:48.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
