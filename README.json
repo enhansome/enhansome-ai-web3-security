@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:22:05Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "pashov",
                 "repo": "skills",
                 "stars": 1306,
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-06T15:20:09Z",
-            "open_issues": 154,
+            "open_issues": 157,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8104,
+            "stars": 8129,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 470,
+                "stars": 469,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:38:48.397Z",
+    "last_updated": "2026-11-11T11:23:21.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -929,7 +929,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
       "stars": 120,
