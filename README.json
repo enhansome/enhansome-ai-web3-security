@@ -18,10 +18,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T09:22:05Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1306,
+                "stars": 1309,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 18,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 826,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:38:03Z",
+                "last_commit": "2026-11-11T21:41:42Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-06T15:20:09Z",
-            "open_issues": 157,
+            "last_commit": "2026-11-12T05:07:44Z",
+            "open_issues": 159,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8129,
+            "stars": 8149,
             "topics": [
               "agent-skills"
             ]
@@ -896,7 +896,7 @@
                 "open_issues": 0,
                 "owner": "shenyimings",
                 "repo": "FORGE-Artifacts",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:23:21.100Z",
+    "last_updated": "2026-11-12T11:43:59.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
