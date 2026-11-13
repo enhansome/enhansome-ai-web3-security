@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1309,
+                "stars": 1310,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-12T05:07:44Z",
+            "last_commit": "2026-11-12T17:48:51Z",
             "open_issues": 159,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8149,
+            "stars": 8168,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T11:43:59.841Z",
+    "last_updated": "2026-11-13T11:27:20.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -929,7 +929,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
       "stars": 120,
