@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -110,7 +110,7 @@
                 "open_issues": 2,
                 "owner": "0xiehnnkta",
                 "repo": "nemesis-auditor",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -157,7 +157,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -350,7 +350,7 @@
             "open_issues": 159,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8168,
+            "stars": 8182,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 470,
+                "stars": 469,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:27:20.037Z",
+    "last_updated": "2026-11-14T10:50:31.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
