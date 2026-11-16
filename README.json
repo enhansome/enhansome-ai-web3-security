@@ -57,7 +57,7 @@
                 "open_issues": 18,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 825,
+                "stars": 833,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -347,10 +347,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-11-12T17:48:51Z",
-            "open_issues": 161,
+            "open_issues": 162,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8198,
+            "stars": 8226,
             "topics": [
               "agent-skills"
             ]
@@ -839,7 +839,7 @@
                 "open_issues": 6,
                 "owner": "smartbugs",
                 "repo": "smartbugs-curated",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "benchmark",
                   "blockchain",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:25:05.383Z",
+    "last_updated": "2026-11-16T11:57:40.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -932,7 +932,7 @@
       "open_issues": 4,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 120,
+      "stars": 121,
       "topics": [
         "awesome",
         "awesome-list"
