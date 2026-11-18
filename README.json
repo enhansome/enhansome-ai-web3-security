@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1314,
+                "stars": 1316,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,11 +127,11 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-16T21:58:46Z",
+                "last_commit": "2026-11-17T15:46:49Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "ai-security",
                   "ai-skills",
@@ -178,7 +178,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -199,7 +199,7 @@
                 "open_issues": 0,
                 "owner": "DarkNavySecurity",
                 "repo": "web3-skills",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -350,7 +350,7 @@
             "open_issues": 162,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8243,
+            "stars": 8267,
             "topics": [
               "agent-skills"
             ]
@@ -370,10 +370,10 @@
             "language": "Kotlin",
             "license": "GPL-3.0",
             "last_commit": "2026-10-26T12:24:27Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "Certora",
             "repo": "CertoraProver",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "blockchain",
               "certora",
@@ -426,7 +426,7 @@
             "open_issues": 2,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "claude-plugin",
               "defi-security",
@@ -452,7 +452,7 @@
             "open_issues": 0,
             "owner": "DarkNavySecurity",
             "repo": "web3-skills",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:22:08.025Z",
+    "last_updated": "2026-11-18T12:08:13.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
