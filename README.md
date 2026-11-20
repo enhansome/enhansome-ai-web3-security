@@ -17,7 +17,7 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 
 ### Open Source
 
-* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,317 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 (Skill) - Fast (\~5 min) Solidity security feedback during development. Built by Pashov Audit Group.
+* [Pashov Audit Group Skills](https://github.com/pashov/skills) ⭐ 1,322 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-21 (Skill) - Fast (\~5 min) Solidity security feedback during development. Built by Pashov Audit Group.
 * [Hound](https://github.com/scabench-org/hound) ⭐ 837 | 🐛 18 | 🌐 Python | 📅 2026-09-17 (CLI) - Language-agnostic AI auditor that autonomously builds and refines adaptive knowledge graphs for deep, iterative code reasoning.
 * [Plamen](https://github.com/PlamenTSV/plamen) ⭐ 316 | 🐛 9 | 🌐 Python | 📅 2026-09-26 (Skill) - Autonomous Web3 audit agent orchestrating 15–95 AI agents across 8 phases with verified PoC exploits. Supports EVM, Solana/Anchor, Aptos Move, and Sui Move.
 * [Nemesis Auditor](https://github.com/0xiehnnkta/nemesis-auditor) ⭐ 252 | 🐛 2 | 📅 2026-03-16 (Skill) - Iterative deep-logic audit agent alternating Feynman Auditor (first-principles reasoning) and State Inconsistency Auditor (coupled state desync detection). Runs until convergence (max 6 passes).
@@ -53,8 +53,8 @@ Tools that find vulnerabilities in smart contracts using AI. You point them at c
 
 Free and open source components you plug into your AI agent's workflow - skills that augment reasoning, data connectors, tool bridges, spec generators, and training frameworks. These don't orchestrate finding bugs on their own but make your auditing agent smarter.
 
-* [Trail of Bits Skills](https://github.com/trailofbits/skills) ⭐ 8,292 | 🐛 163 | 🌐 Python | 📅 2026-11-18 - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
-* [Certora Prover + AI Composer](https://github.com/Certora/CertoraProver) ⭐ 343 | 🐛 51 | 🌐 Kotlin | 📅 2026-10-26 - State-of-the-art formal verification prover. AI Composer helps generate CVL specifications using LLMs.
+* [Trail of Bits Skills](https://github.com/trailofbits/skills) ⭐ 8,313 | 🐛 167 | 🌐 Python | 📅 2026-11-20 - Plugin marketplace for Claude Code and Codex with 35 plugins spanning smart contract security (6-blockchain vulnerability scanning, entry-point analysis), code auditing (differential review, variant analysis), reverse engineering, and more.
+* [Certora Prover + AI Composer](https://github.com/Certora/CertoraProver) ⭐ 344 | 🐛 51 | 🌐 Kotlin | 📅 2026-10-26 - State-of-the-art formal verification prover. AI Composer helps generate CVL specifications using LLMs.
 * [Claudit](https://github.com/marchev/claudit) ⭐ 158 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-23 - MCP server for searching Solodit's 20K+ smart contract security findings with rich filtering. Integrates with Claude Code, Codex CLI, and Cursor.
 * [QuillAudits Claude Skills](https://github.com/quillai-network/qs_skills) ⭐ 136 | 🐛 2 | 🌐 Shell | 📅 2026-03-30 - 10 specialized skills covering OWASP Smart Contract Top 10: behavioral state analysis, adversarial simulation, invariant inference, Bayesian scoring.
 * [DarkNavy Exploit Investigator](https://github.com/DarkNavySecurity/web3-skills/tree/main/exploit-investigator) ⭐ 116 | 🐛 0 | 🌐 Python | 📅 2026-07-21 - Multi-agent on-chain exploit investigation skill with analyst-validator debate loop, root-cause analysis, and Foundry PoC generation across EVM-compatible chains.
@@ -65,7 +65,7 @@ Free and open source components you plug into your AI agent's workflow - skills 
 * [CD Security's AUDIT-PREP](https://github.com/CDSecurity/cdsecurity-skills) ⭐ 55 | 🐛 0 | 🌐 Shell | 📅 2026-04-08 - Eight-phase parallel Solidity pre-audit checker that runs inside Claude Code to surface hygiene issues, missing tests, and documentation gaps before formal review.
 * [SmartInv](https://github.com/columbia/SmartInv) ⭐ 48 | 🐛 2 | 🌐 Solidity | 📅 2024-11-14 - LLM-based invariant inference using "Tier of Thought" prompting. Fine-tunes multiple models (LLaMA, T5, GPT-2) and verifies with a bounded model checker. Published IEEE S\&P 2024.
 * [Solodit MCP Server](https://github.com/LyuboslavLyubenov/search-solodit-mcp) ⭐ 42 | 🐛 2 | 🌐 TypeScript | 📅 2025-06-30 - MCP server for searching Solodit vulnerability reports by keywords and retrieving full report content.
-* [FTSmartAudit](https://github.com/LLMSmartAudit/FTSmartAudit) ⭐ 32 | 🐛 2 | 🌐 Solidity | 📅 2026-02-17 - Teacher-student knowledge distillation framework producing fine-tuned models (1B–20B parameters) for smart contract vulnerability detection with 112 vulnerability labels.
+* [FTSmartAudit](https://github.com/LLMSmartAudit/FTSmartAudit) ⭐ 31 | 🐛 2 | 🌐 Solidity | 📅 2026-02-17 - Teacher-student knowledge distillation framework producing fine-tuned models (1B–20B parameters) for smart contract vulnerability detection with 112 vulnerability labels.
 
 ## AI-Powered On-Chain Monitoring
 
@@ -80,7 +80,7 @@ Frameworks and datasets for measuring, training, and evaluating AI security tool
 
 ### Benchmarks
 
-* [EVMbench](https://github.com/paradigmxyz/evmbench) ⭐ 471 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 - Benchmark and agent harness for finding and exploiting smart contract bugs. Companion to OpenAI's evmbench detect evaluation. ([Paper](https://arxiv.org/html/2603.04915v1))
+* [EVMbench](https://github.com/paradigmxyz/evmbench) ⭐ 472 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 - Benchmark and agent harness for finding and exploiting smart contract bugs. Companion to OpenAI's evmbench detect evaluation. ([Paper](https://arxiv.org/html/2603.04915v1))
 * [SCONE-bench](https://github.com/safety-research/SCONE-bench) ⭐ 190 | 🐛 5 | 📅 2026-05-22 - Smart contract exploitation benchmark with 405 contracts from DefiHackLabs. Docker-based evaluation harness with MCP tools and 60-minute timeout. ([Report](https://red.anthropic.com/2025/smart-contracts/))
 * [Bastet](https://github.com/OneSavieLabs/Bastet) ⭐ 124 | 🐛 7 | 🌐 Python | 📅 2026-08-18 - DeFi smart contract vulnerability dataset with AI-driven automated detection process. Includes CLI tool, n8n workflow integration, and CI/CD support. Apache 2.0.
 * [ScaBench](https://github.com/scabench-org/scabench) ⭐ 120 | 🐛 10 | 🌐 Python | 📅 2025-10-04 - Smart contract audit benchmark: 31 projects, 555 vulnerabilities from Code4rena, Cantina, and Sherlock. Includes GPT-5 baseline runner and Nethermind AuditAgent scoring.
@@ -97,11 +97,11 @@ Frameworks and datasets for measuring, training, and evaluating AI security tool
 
 ## Related Lists
 
-* [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) ⭐ 663 | 🐛 2 | 📅 2026-11-13 - AI Web3 security tools/skills/agents, constantly updated.
+* [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security) ⭐ 664 | 🐛 2 | 📅 2026-11-13 - AI Web3 security tools/skills/agents, constantly updated.
 * [HackenProof AI Agents Directory](https://hackenproof.com/security-ai-agents) - Aggregated directory of AI security agents.
 * [Forefy Auditor Skills Registry](https://forefy.com/skills) - Community-reviewed directory of AI auditing skills for smart contracts.
 
-> For general (non-AI) Web3 security resources, see [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,635 | 🐛 21 | 📅 2026-03-01, [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,486 | 🐛 44 | 📅 2024-08-20, and [Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) ⭐ 480 | 🐛 11 | 📅 2026-08-25.
+> For general (non-AI) Web3 security resources, see [Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) ⭐ 1,634 | 🐛 21 | 📅 2026-03-01, [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,485 | 🐛 44 | 📅 2024-08-20, and [Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) ⭐ 480 | 🐛 11 | 📅 2026-08-25.
 
 ## Contributing
 
@@ -109,4 +109,4 @@ See [contributing.md](contributing.md) for detailed criteria.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
