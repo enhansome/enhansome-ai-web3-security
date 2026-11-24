@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-21T07:06:22Z",
-            "open_issues": 170,
+            "last_commit": "2026-11-24T02:56:05Z",
+            "open_issues": 172,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8364,
+            "stars": 8390,
             "topics": [
               "agent-skills"
             ]
@@ -405,7 +405,7 @@
             "open_issues": 1,
             "owner": "marchev",
             "repo": "claudit",
-            "stars": 158,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T15:37:05.964Z"
@@ -422,7 +422,7 @@
             "id": 1151327123,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-03-30T10:10:00Z",
+            "last_commit": "2026-11-24T00:25:17Z",
             "open_issues": 2,
             "owner": "quillai-network",
             "repo": "quillshield_skills",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T13:32:49.451Z",
+    "last_updated": "2026-11-24T14:10:39.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
