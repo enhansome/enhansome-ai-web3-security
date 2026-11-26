@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -127,7 +127,7 @@
                 "id": 925651676,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-23T12:39:32Z",
+                "last_commit": "2026-11-25T17:33:48Z",
                 "open_issues": 0,
                 "owner": "forefy",
                 "repo": ".context",
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-24T02:56:05Z",
-            "open_issues": 172,
+            "last_commit": "2026-11-25T20:01:27Z",
+            "open_issues": 175,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8423,
+            "stars": 8446,
             "topics": [
               "agent-skills"
             ]
@@ -813,7 +813,7 @@
                 "open_issues": 11,
                 "owner": "Messi-Q",
                 "repo": "Smart-Contract-Dataset",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "dataset",
                   "ethereum",
@@ -863,7 +863,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-02T20:59:34Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "acorn421",
                 "repo": "awesome-smart-contract-datasets",
                 "stars": 72,
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T13:24:18.500Z",
+    "last_updated": "2026-11-26T13:03:06.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -929,7 +929,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-24T07:25:34Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
       "stars": 121,
