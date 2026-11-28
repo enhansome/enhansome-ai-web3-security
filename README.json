@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "pashov",
                 "repo": "skills",
-                "stars": 1327,
+                "stars": 1330,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -57,7 +57,7 @@
                 "open_issues": 18,
                 "owner": "scabench-org",
                 "repo": "hound",
-                "stars": 839,
+                "stars": 840,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -78,7 +78,7 @@
                 "open_issues": 8,
                 "owner": "PlamenTSV",
                 "repo": "plamen",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "ai-agent",
                   "aptos",
@@ -157,7 +157,7 @@
                 "open_issues": 0,
                 "owner": "Archethect",
                 "repo": "sc-auditor",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:37:05.964Z"
@@ -346,11 +346,11 @@
             "id": 1134447175,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-25T20:01:27Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-27T20:59:28Z",
+            "open_issues": 178,
             "owner": "trailofbits",
             "repo": "skills",
-            "stars": 8466,
+            "stars": 8475,
             "topics": [
               "agent-skills"
             ]
@@ -659,7 +659,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 472,
+                "stars": 471,
                 "topics": [
                   "agents",
                   "ai",
@@ -920,7 +920,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:00:09.310Z",
+    "last_updated": "2026-11-28T12:13:24.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, verified list of AI-powered tools for smart contract and blockchain security",
@@ -932,7 +932,7 @@
       "open_issues": 3,
       "owner": "marchev",
       "repo": "awesome-ai-web3-security",
-      "stars": 121,
+      "stars": 122,
       "topics": [
         "awesome",
         "awesome-list"
